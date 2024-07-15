@@ -4,6 +4,8 @@ I'm Josh, a recent Computer Science M.S. graduate from the University of Illinoi
 My research focuses on leveraging both vision and language to extract information from images. My thesis research composes vision models using generated code to solve complex tasks, like visual-question answering.
 
 Feel Free to contact me via LinkedIn or visit my [personal website](https://jlevine272.github.io/) to learn more.
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-a-levine)
 
 <!--
